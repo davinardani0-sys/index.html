@@ -1,0 +1,12 @@
+pseudocsde if and
+
+mulai
+
+masukan data 
+jika username "admin" dan password "admin123" login ke page admin
+jika username "dosen" dan password "dosen111" login ke page dosen
+jika username "mahasiswa" dan password "mahasiswa123" login ke page mahasiswa
+selain itu maka username dan password salah
+output
+
+selesai 
